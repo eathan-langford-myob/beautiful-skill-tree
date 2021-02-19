@@ -95,7 +95,7 @@ const data = [];
         collapsible
         description="My first skill tree"
       />
-    })
+    )}
     </SkillTreeGroup>
 </SkillProvider>
 ```
